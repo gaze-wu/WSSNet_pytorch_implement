@@ -51,7 +51,5 @@ you can test some case by:
 ```
 python test.py
 ```
-=======
-Official TensorFolw implementation are here: https://github.com/EdwardFerdian/WSSNet
->>>>>>> f852b8b461debdcde54c8fa15091b73518ad22d5
+
 
