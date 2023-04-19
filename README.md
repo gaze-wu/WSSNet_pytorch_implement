@@ -46,7 +46,7 @@ You can train by:
 python main.py
 ```
 
-you can test some case by:
+You can test some case by:
 
 ```
 python test.py
