@@ -36,7 +36,7 @@ Here are some visualizations:
 
 
 
-In the visualization file, I only modified the file separately: plot_ tawss_ osi_ flatmap.py。 Therefore, the work of modifying other visualization files is entrusted to later parties.
+In the visualization file, I only modified the file separately: plot_ tawss_ osi_ flatmap.py. Therefore, the work of modifying other visualization files is entrusted to later parties.
 
 
 
