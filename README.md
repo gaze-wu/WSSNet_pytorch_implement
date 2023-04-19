@@ -16,7 +16,7 @@ In this implementation, it not only includes CNN, but also the implementation of
 
 I tried, but the effect was not particularly good.
 
-Unlike the official implementation, I did not include a regular loss term.
+Unlike the official implementation, I did not include a regular loss term. (Just SSIM + MAE)
 
 Here are some results of SwinT:
 
