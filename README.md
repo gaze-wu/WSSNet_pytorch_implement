@@ -1,6 +1,7 @@
 # WSSNet_pytorch_implement
 This repository is pytorch's implement of paper: WSSNet: Aortic wall shear stress estimation using deep learning on 4D Flow MRI
 
+<<<<<<< HEAD
 Official TensorFolw implementation are here: https://github.com/EdwardFerdian/WSSNet . You can download datasets here and place them in the same level directory as the master like :
 
 ```
@@ -50,4 +51,7 @@ you can test some case by:
 ```
 python test.py
 ```
+=======
+Official TensorFolw implementation are here: https://github.com/EdwardFerdian/WSSNet
+>>>>>>> f852b8b461debdcde54c8fa15091b73518ad22d5
 
